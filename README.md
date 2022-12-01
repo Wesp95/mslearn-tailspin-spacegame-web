@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/adamjozefczukwsb/Space%20Jam%20web%20-%20pipeline/_apis/build/status/Wesp95.mslearn-tailspin-spacegame-web%20(1)?branchName=main)](https://dev.azure.com/adamjozefczukwsb/Space%20Jam%20web%20-%20pipeline/_build/latest?definitionId=3&branchName=main)
 
 # Contributing
 
